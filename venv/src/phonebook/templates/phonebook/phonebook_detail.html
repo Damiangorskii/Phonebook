@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form method="GET">
+    {{myFilterTelefon.form}}<br/><br/>
+    {{myFilterEmail.form}}<br/><br/>
+    <button type="submit">Search</button>
+</form>
+
+<h2>Detailed information</h2>
+<h3>{{object.imie}}</h3>
+<h3>{{object.nazwisko}}</h3>
+<h4>Telefony:</h4>
+{% for tel in telefon %}
+<p>{{tel.telefon}}</p>
+{% endfor %}
+<a href="phone"><button>Dodaj numer telefonu</button></a>
+<h4>Emaile:</h4>
+{% for em in email %}
+<p>{{em.email}}</p>
+{% endfor %}
+<a href="email"><button>Dodaj adres email</button></a>
+
+<br/><br/>
+<a href="update"><button>Edytuj osobe</button></a><br/><br/>
+<a href="delete"><button>Usun osobe</button></a>
+
+
+
+{% endblock %}

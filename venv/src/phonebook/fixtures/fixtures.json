@@ -1,0 +1,485 @@
+[
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Jerzy ",
+      "nazwisko" : "Sawicki"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Marcin",
+      "nazwisko" : "Prokop"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Oktawian",
+      "nazwisko" : "Mazur"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Błażej",
+      "nazwisko" : "Mazur"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Eugeniusz",
+      "nazwisko" : "Piotrowski"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Antoni",
+      "nazwisko" : "Mazur"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Dobromił",
+      "nazwisko" : "Włodarczyk"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Diego",
+      "nazwisko" : "Błaszczyk"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Czesław",
+      "nazwisko" : "Michalak"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Gniewomir",
+      "nazwisko" : "Kowalski"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Miłosz",
+      "nazwisko" : "Przybylski"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Cyprian",
+      "nazwisko" : "Przybylski"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Józefa",
+      "nazwisko" : "Wasilewska"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Bogumiła",
+      "nazwisko" : "Zawadzka"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Konstancja",
+      "nazwisko" : "Mazurek"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Matylda",
+      "nazwisko" : "Kołodziej"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Honorata",
+      "nazwisko" : "Wiśniewska"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Danuta",
+      "nazwisko" : "Baran"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Ada",
+      "nazwisko" : "Duda"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Krystyna",
+      "nazwisko" : "Brzezińska"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Elena",
+      "nazwisko" : "Zawadzka"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Ida",
+      "nazwisko" : "Wojciechowska"
+    }
+  },
+  {
+    "model" : "phonebook.Osoba",
+    "fields": {
+      "imie" : "Marlena",
+      "nazwisko" : "Zalewska"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "1",
+      "telefon" : "246991114"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "2",
+      "telefon" : "127660275"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "3",
+      "telefon" : "767621429"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "4",
+      "telefon" : "617317528"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "5",
+      "telefon" : "202069096"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "6",
+      "telefon" : "342105357"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "7",
+      "telefon" : "744575238"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "8",
+      "telefon" : "311518418"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "9",
+      "telefon" : "725035670"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "10",
+      "telefon" : "988346969"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "11",
+      "telefon" : "828080922"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "12",
+      "telefon" : "409903570"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "13",
+      "telefon" : "104948535"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "14",
+      "telefon" : "215610564"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "15",
+      "telefon" : "154868262"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "16",
+      "telefon" : "922133580"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "17",
+      "telefon" : "328999946"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "18",
+      "telefon" : "579055882"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "19",
+      "telefon" : "913237685"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "20",
+      "telefon" : "589388373"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "21",
+      "telefon" : "555377332"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "22",
+      "telefon" : "555727332"
+    }
+  },
+  {
+    "model" : "phonebook.Telefon",
+    "fields": {
+      "osoba" : "23",
+      "telefon" : "555717332"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "1",
+      "email" : "jerzy.sawicki@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "2",
+      "email" : "marcin.prokop@onet.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "3",
+      "email" : "oktawian.mazur@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "4",
+      "email" : "blazej.mazur@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "5",
+      "email" : "eugeniusz.piotrkowski@o2.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "6",
+      "email" : "antoni.mazur@gmail.com"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "7",
+      "email" : "dobromil.wlodarczyk@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "8",
+      "email" : "diego.blaszczyk@gmail.com"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "9",
+      "email" : "czeslaw.michalak@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "10",
+      "email" : "gniewomir.kowalski@onet.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "11",
+      "email" : "milosz.przybylski@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "12",
+      "email" : "cyprian.przybylski@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "13",
+      "email" : "jozefa.wasilewska@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "14",
+      "email" : "bogumila.zawadzka@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "15",
+      "email" : "konstancja.mazurek@o2.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "16",
+      "email" : "matylda.kolodziej@onet.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "17",
+      "email" : "honorata.wisniewska@onet.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "18",
+      "email" : "danuta.baran@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "19",
+      "email" : "ada.duda@gmail.com"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "20",
+      "email" : "krystyna.brzezinska@wp.pl"
+    }
+  },
+  {
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "21",
+      "email" : "elena.zawadzka@wp.pl"
+    }
+  },{
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "22",
+      "email" : "ida.wojciechowska@wp.pl"
+    }
+  },{
+    "model" : "phonebook.Email",
+    "fields": {
+      "osoba" : "23",
+      "email" : "marlena.zalewska@onet.pl"
+    }
+  }
+
+
+]

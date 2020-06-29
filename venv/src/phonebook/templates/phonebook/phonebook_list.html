@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form method="GET">
+    {{myFilterOsoba.form}}<br/><br/>
+    <button type="submit">Search</button>
+</form>
+
+{% for instance in object_list %}
+<p><a href='{{instance.get_absolute_url}}'>{{instance.imie}} {{instance.nazwisko}}</a></p>
+{%endfor%}
+<br/><br/>
+<a href="create"><button>Dodaj osobe</button></a>
+
+{% endblock %}
